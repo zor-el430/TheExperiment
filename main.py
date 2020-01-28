@@ -2,6 +2,7 @@ import os
 import random
 
 
+# Entity is a neato thing
 class Entity:
     def __init__(self, x_position, y_position, name, display):
         self.x_position = x_position
